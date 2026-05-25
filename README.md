@@ -1,5 +1,4 @@
 # Question-Answering-con-Modelli-Generativi
-Question Answering: Confronto Modelli Generativi, Gemma 3 e Qwen 3
 
 • Obiettivo: Confronto di metodologie di Question Answering (QA) con modelli generativi. 
 
